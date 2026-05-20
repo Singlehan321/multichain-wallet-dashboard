@@ -1,3 +1,5 @@
+# Fetch Base wallet information
+
 def get_base_wallet(address):
     return {
         "network": "Base",
