@@ -1,2 +1,2 @@
-def get_base_wallet():
+def get_base_wallet(address):
     pass
